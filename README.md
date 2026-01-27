@@ -6,15 +6,15 @@ Agent Skills for Django development with Clean Architecture, SOLID principles, a
 
 ```bash
 # List available skills
-npx skills add agustin/django-skills --list
+npx skills add agusabas/django-skills --list
 
 # Install all skills
-npx skills add agustin/django-skills --all
+npx skills add agusabas/django-skills --all
 
 # Install specific skills
-npx skills add agustin/django-skills --skill django-clean-drf
-npx skills add agustin/django-skills --skill django-celery-expert
-npx skills add agustin/django-skills --skill refactordjango
+npx skills add agusabas/django-skills --skill django-clean-drf
+npx skills add agusabas/django-skills --skill django-celery-expert
+npx skills add agusabas/django-skills --skill refactordjango
 ```
 
 ## Available Skills
